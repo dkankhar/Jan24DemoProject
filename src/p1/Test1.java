@@ -6,5 +6,6 @@ public class Test1 {
 		System.out.println("Line number 6 change in Test1");
 		System.out.println("Branch B Line 7 change");
 		System.out.println("Test Change Test 1 Line 8 Branch A");
+		System.out.println(" A Commit");
 	}
 }
